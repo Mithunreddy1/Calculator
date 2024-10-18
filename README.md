@@ -22,3 +22,4 @@ Technologies Used
 HTML5: For structuring the user interface.
 CSS3: For styling the calculator.
 JavaScript: For implementing the calculator's functionality.
+JavaScript: For implementing the calculator's functionality.
