@@ -12,6 +12,10 @@ Addition, subtraction, multiplication, and division.
 Clear and reset functionality.
 Responsive design, compatible with various screen sizes.
 Keyboard input support for quicker calculations.
+Addition, subtraction, multiplication, and division.
+Clear and reset functionality.
+Responsive design, compatible with various screen sizes.
+Keyboard input support for quicker calculations.
 
 
 **Usage**
